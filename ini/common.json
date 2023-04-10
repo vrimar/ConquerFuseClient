@@ -1,15 +1,13 @@
-[{
-    "maleFaceCount": "107",
-    "femaleFaceCount": "96",
-    "motionLife": "60000",
-    "textureLife": "60000",
-    "effectLife": "60000",
-    "puzzleLife": "60000",
-    "puzzlePreloadSize": "1",
-    "guildLeaderScale": "300",
-    "guildLeaderMaxLife": "10000",
-    "guildAssistantScale": "200",
-    "guildAssistantMaxLife": "10000",
-    "guildSubLeaderScale": "150",
-    "guildSubLeaderMaxLife": "10000"
-}]
+{
+  "effectLife": 60000,
+  "guildAssistantMaxLife": 10000,
+  "guildAssistantScale": 200,
+  "guildLeaderMaxLife": 10000,
+  "guildLeaderScale": 300,
+  "guildSubLeaderMaxLife": 10000,
+  "guildSubLeaderScale": 150,
+  "motionLife": 60000,
+  "puzzleLife": 60000,
+  "puzzlePreloadSize": 1,
+  "textureLife": 60000
+}
