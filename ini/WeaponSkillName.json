@@ -1,0 +1,194 @@
+[
+  {
+    "id": 0,
+    "name": "Boxing"
+  },
+  {
+    "id": 410,
+    "name": "Blade"
+  },
+  {
+    "id": 420,
+    "name": "Sword"
+  },
+  {
+    "id": 421,
+    "name": "Backsword"
+  },
+  {
+    "id": 430,
+    "name": "Hook"
+  },
+  {
+    "id": 440,
+    "name": "Whip"
+  },
+  {
+    "id": 441,
+    "name": "Mace"
+  },
+  {
+    "id": 450,
+    "name": "Axe"
+  },
+  {
+    "id": 460,
+    "name": "Hammer"
+  },
+  {
+    "id": 470,
+    "name": "Crutch"
+  },
+  {
+    "id": 480,
+    "name": "Club"
+  },
+  {
+    "id": 481,
+    "name": "Scepter"
+  },
+  {
+    "id": 490,
+    "name": "Dagger"
+  },
+  {
+    "id": 491,
+    "name": "Prod"
+  },
+  {
+    "id": 492,
+    "name": "Fan"
+  },
+  {
+    "id": 493,
+    "name": "Flute"
+  },
+  {
+    "id": 510,
+    "name": "Glaive"
+  },
+  {
+    "id": 511,
+    "name": "Saber"
+  },
+  {
+    "id": 520,
+    "name": "Epee"
+  },
+  {
+    "id": 521,
+    "name": "Zither"
+  },
+  {
+    "id": 522,
+    "name": "Lute"
+  },
+  {
+    "id": 530,
+    "name": "Poleaxe"
+  },
+  {
+    "id": 540,
+    "name": "LongHammer"
+  },
+  {
+    "id": 550,
+    "name": "Scythe"
+  },
+  {
+    "id": 560,
+    "name": "Spear"
+  },
+  {
+    "id": 562,
+    "name": "Pickaxe"
+  },
+  {
+    "id": 570,
+    "name": "Spade"
+  },
+  {
+    "id": 580,
+    "name": "Halberd"
+  },
+  {
+    "id": 561,
+    "name": "Wand"
+  },
+  {
+    "id": 500,
+    "name": "Bow"
+  },
+  {
+    "id": 700,
+    "name": "Boxing"
+  },
+  {
+    "id": 710,
+    "name": "Blade"
+  },
+  {
+    "id": 720,
+    "name": "Sword"
+  },
+  {
+    "id": 721,
+    "name": "MagicSword"
+  },
+  {
+    "id": 730,
+    "name": "Hook"
+  },
+  {
+    "id": 740,
+    "name": "Whip"
+  },
+  {
+    "id": 741,
+    "name": "Mace"
+  },
+  {
+    "id": 750,
+    "name": "Axe"
+  },
+  {
+    "id": 760,
+    "name": "Hammer"
+  },
+  {
+    "id": 770,
+    "name": "Crutch"
+  },
+  {
+    "id": 780,
+    "name": "Club"
+  },
+  {
+    "id": 781,
+    "name": "Scepter"
+  },
+  {
+    "id": 790,
+    "name": "Dagger"
+  },
+  {
+    "id": 791,
+    "name": "Prod"
+  },
+  {
+    "id": 792,
+    "name": "Fan"
+  },
+  {
+    "id": 793,
+    "name": "Flute"
+  },
+  {
+    "id": 900,
+    "name": "Shield"
+  },
+  {
+    "id": 422,
+    "name": "Other"
+  }
+]
