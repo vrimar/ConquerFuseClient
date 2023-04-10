@@ -9,3 +9,4 @@ debug.log
 Launcher.exe
 LauncherUpdater.exe
 account.json
+*.log
