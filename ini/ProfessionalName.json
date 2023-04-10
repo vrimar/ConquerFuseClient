@@ -1,0 +1,194 @@
+[
+  {
+    "id": 10,
+    "name": "InternTrojan"
+  },
+  {
+    "id": 11,
+    "name": "Trojan"
+  },
+  {
+    "id": 12,
+    "name": "VeteranTrojan"
+  },
+  {
+    "id": 13,
+    "name": "TigerTrojan"
+  },
+  {
+    "id": 14,
+    "name": "DragonTrojan"
+  },
+  {
+    "id": 15,
+    "name": "TrojanMaster"
+  },
+  {
+    "id": 20,
+    "name": "InternWarrior"
+  },
+  {
+    "id": 21,
+    "name": "Warrior"
+  },
+  {
+    "id": 22,
+    "name": "BrassWarrior"
+  },
+  {
+    "id": 23,
+    "name": "SilverWarrior"
+  },
+  {
+    "id": 24,
+    "name": "GoldWarrior"
+  },
+  {
+    "id": 25,
+    "name": "WarriorMaster"
+  },
+  {
+    "id": 30,
+    "name": "Knight"
+  },
+  {
+    "id": 40,
+    "name": "InternArcher"
+  },
+  {
+    "id": 41,
+    "name": "Archer"
+  },
+  {
+    "id": 42,
+    "name": "EagleArcher"
+  },
+  {
+    "id": 43,
+    "name": "TigerArcher"
+  },
+  {
+    "id": 44,
+    "name": "DragonArcher"
+  },
+  {
+    "id": 45,
+    "name": "ArcherMaster"
+  },
+  {
+    "id": 100,
+    "name": "InternTaoist"
+  },
+  {
+    "id": 101,
+    "name": "Taoist"
+  },
+  {
+    "id": 112,
+    "name": "MetalTaoist"
+  },
+  {
+    "id": 113,
+    "name": "MetalWizard"
+  },
+  {
+    "id": 114,
+    "name": "MetalMaster"
+  },
+  {
+    "id": 115,
+    "name": "MetalSaint"
+  },
+  {
+    "id": 122,
+    "name": "WoodTaoist"
+  },
+  {
+    "id": 123,
+    "name": "WoodWizard"
+  },
+  {
+    "id": 124,
+    "name": "WoodMaster"
+  },
+  {
+    "id": 125,
+    "name": "WoodSaint"
+  },
+  {
+    "id": 132,
+    "name": "WaterTaoist"
+  },
+  {
+    "id": 133,
+    "name": "WaterWizard"
+  },
+  {
+    "id": 134,
+    "name": "WaterMaster"
+  },
+  {
+    "id": 135,
+    "name": "WaterSaint"
+  },
+  {
+    "id": 142,
+    "name": "FireTaoist"
+  },
+  {
+    "id": 143,
+    "name": "FireWizard"
+  },
+  {
+    "id": 144,
+    "name": "FireMaster"
+  },
+  {
+    "id": 145,
+    "name": "FireSaint"
+  },
+  {
+    "id": 152,
+    "name": "EarthTaoist"
+  },
+  {
+    "id": 153,
+    "name": "EarthWizard"
+  },
+  {
+    "id": 154,
+    "name": "EarthMaster"
+  },
+  {
+    "id": 155,
+    "name": "EarthSaint"
+  },
+  {
+    "id": 190,
+    "name": "InternTaoist"
+  },
+  {
+    "id": 191,
+    "name": "Taosit"
+  },
+  {
+    "id": 192,
+    "name": "GeneralTaoist"
+  },
+  {
+    "id": 193,
+    "name": "Wizard"
+  },
+  {
+    "id": 194,
+    "name": "Master"
+  },
+  {
+    "id": 195,
+    "name": "Saint"
+  },
+  {
+    "id": 500,
+    "name": "Master"
+  }
+]
