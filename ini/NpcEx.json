@@ -1,0 +1,27 @@
+[
+  {
+    "id": 113,
+    "looks": [
+      {
+        "lifePct": 100,
+        "npcId": 109,
+        "dir": 7
+      },
+      {
+        "lifePct": 70,
+        "npcId": 109,
+        "dir": 7
+      },
+      {
+        "lifePct": 40,
+        "npcId": 109,
+        "dir": 7
+      },
+      {
+        "lifePct": 10,
+        "npcId": 109,
+        "dir": 7
+      }
+    ]
+  }
+]

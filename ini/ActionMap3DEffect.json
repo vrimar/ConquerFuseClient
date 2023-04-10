@@ -1,0 +1,520 @@
+[
+  {
+    "id": 1040330999,
+    "effect": "Feather",
+    "showTime": 0
+  },
+  {
+    "id": 1040332999,
+    "effect": "Feather",
+    "showTime": 0
+  },
+  {
+    "id": 9990130002,
+    "effect": "Dust"
+  },
+  {
+    "id": 9990120002,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990121002,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990330000,
+    "effect": "Blood",
+    "showTime": 0
+  },
+  {
+    "id": 9990332000,
+    "effect": "Blood",
+    "showTime": 0
+  },
+  {
+    "id": 9990130012,
+    "effect": "Dust"
+  },
+  {
+    "id": 9990120012,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990121012,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990130001,
+    "effect": "WaterSplash"
+  },
+  {
+    "id": 9990120001,
+    "effect": "WaterSplash"
+  },
+  {
+    "id": 9990121001,
+    "effect": "WaterSplash"
+  },
+  {
+    "id": 9990130011,
+    "effect": "Dust"
+  },
+  {
+    "id": 9990120011,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990121011,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990130007,
+    "effect": "Dust"
+  },
+  {
+    "id": 9990120007,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990121007,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990130003,
+    "effect": "Dust"
+  },
+  {
+    "id": 9990120003,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990121003,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990130004,
+    "effect": "WaterSplash"
+  },
+  {
+    "id": 9990120004,
+    "effect": "WaterSplash"
+  },
+  {
+    "id": 9990121004,
+    "effect": "WaterSplash"
+  },
+  {
+    "id": 9990130005,
+    "effect": "Dust"
+  },
+  {
+    "id": 9990120005,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990121005,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990130006,
+    "effect": "Dust"
+  },
+  {
+    "id": 9990120006,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990121006,
+    "effect": "RunDust"
+  },
+  {
+    "id": 1320330999,
+    "effect": "Feather1",
+    "showTime": 0
+  },
+  {
+    "id": 1320332999,
+    "effect": "Feather1",
+    "showTime": 0
+  },
+  {
+    "id": 2050330999,
+    "effect": "Feather2",
+    "showTime": 0
+  },
+  {
+    "id": 2050332999,
+    "effect": "Feather2",
+    "showTime": 0
+  },
+  {
+    "id": 3040330999,
+    "effect": "Feather3",
+    "showTime": 0
+  },
+  {
+    "id": 3040332999,
+    "effect": "Feather3",
+    "showTime": 0
+  },
+  {
+    "id": 3320330999,
+    "effect": "Feather2",
+    "showTime": 0
+  },
+  {
+    "id": 4050332999,
+    "effect": "Feather4",
+    "showTime": 0
+  },
+  {
+    "id": 9990130017,
+    "effect": "Dust"
+  },
+  {
+    "id": 9990120017,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990121017,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990130018,
+    "effect": "Dust"
+  },
+  {
+    "id": 9990120018,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990121018,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990130019,
+    "effect": "Dust"
+  },
+  {
+    "id": 9990120019,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990121019,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990130020,
+    "effect": "Dust"
+  },
+  {
+    "id": 9990120020,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990121020,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990130021,
+    "effect": "Dust"
+  },
+  {
+    "id": 9990120021,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990121021,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990130023,
+    "effect": "Dust"
+  },
+  {
+    "id": 9990120023,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990121023,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990130024,
+    "effect": "Dust"
+  },
+  {
+    "id": 9990120024,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990121024,
+    "effect": "RunDust"
+  },
+  {
+    "id": 9990909999,
+    "effect": "replacedisappear",
+    "showTime": 0
+  },
+  {
+    "id": 9990910999,
+    "effect": "replaceappear",
+    "showTime": 0
+  },
+  {
+    "id": 9500120002,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500120012,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500120001,
+    "effect": "WaterSplash"
+  },
+  {
+    "id": 9500120011,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500120007,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500120003,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500120004,
+    "effect": "WaterSplash"
+  },
+  {
+    "id": 9500120005,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500120006,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500120017,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500120018,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500120019,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500120020,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500120021,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500120023,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500120024,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500121002,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500121012,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500121001,
+    "effect": "WaterSplash"
+  },
+  {
+    "id": 9500121011,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500121007,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500121003,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500121004,
+    "effect": "WaterSplash"
+  },
+  {
+    "id": 9500121005,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500121006,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500121017,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500121018,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500121019,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500121020,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500121021,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500121023,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500121024,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500110002,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500110012,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500110001,
+    "effect": "WaterSplash"
+  },
+  {
+    "id": 9500110011,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500110007,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500110003,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500110004,
+    "effect": "WaterSplash"
+  },
+  {
+    "id": 9500110005,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500110006,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500110017,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500110018,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500110019,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500110020,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500110021,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500110023,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500110024,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500111002,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500111012,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500111001,
+    "effect": "WaterSplash"
+  },
+  {
+    "id": 9500111011,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500111007,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500111003,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500111004,
+    "effect": "WaterSplash"
+  },
+  {
+    "id": 9500111005,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500111006,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500111017,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500111018,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500111019,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500111020,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500111021,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500111023,
+    "effect": "DragonDust"
+  },
+  {
+    "id": 9500111024,
+    "effect": "DragonDust"
+  }
+]

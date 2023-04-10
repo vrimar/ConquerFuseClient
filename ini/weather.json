@@ -1,0 +1,49 @@
+[
+  {
+    "terrain": 17,
+    "type": 7,
+    "windDir": 10,
+    "level": 100
+  },
+  {
+    "terrain": 18,
+    "type": 5,
+    "windDir": 30,
+    "level": 100
+  },
+  {
+    "terrain": 19,
+    "type": 5,
+    "windDir": 30,
+    "level": 100,
+    "color": 1
+  },
+  {
+    "terrain": 20,
+    "type": 5,
+    "windDir": 30,
+    "level": 100,
+    "color": 2
+  },
+  {
+    "terrain": 21,
+    "type": 5,
+    "windDir": 30,
+    "level": 100,
+    "color": 4
+  },
+  {
+    "terrain": 23,
+    "type": 5,
+    "windDir": 30,
+    "level": 100,
+    "color": 3
+  },
+  {
+    "terrain": 24,
+    "type": 5,
+    "windDir": 30,
+    "level": 100,
+    "color": 5
+  }
+]
