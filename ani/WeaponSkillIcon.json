@@ -1,0 +1,65 @@
+{
+  "Weapon0": [
+    "Data/Main/100000.dds"
+  ],
+  "Weapon410": [
+    "Data/Main/410000.dds"
+  ],
+  "Weapon420": [
+    "Data/Main/420000.dds"
+  ],
+  "Weapon421": [
+    "Data/Main/421000.dds"
+  ],
+  "Weapon430": [
+    "Data/ItemMinIcon/430025.dds"
+  ],
+  "Weapon440": [
+    "Data/ItemMinIcon/440025.dds"
+  ],
+  "Weapon450": [
+    "Data/Main/450000.dds"
+  ],
+  "Weapon460": [
+    "Data/Main/460000.dds"
+  ],
+  "Weapon480": [
+    "Data/Main/480000.dds"
+  ],
+  "Weapon481": [
+    "Data/Main/481000.dds"
+  ],
+  "Weapon490": [
+    "Data/Main/490000.dds"
+  ],
+  "Weapon500": [
+    "Data/Main/500000.dds"
+  ],
+  "Weapon510": [
+    "Data/ItemMinIcon/510025.dds"
+  ],
+  "Weapon530": [
+    "Data/ItemMinIcon/530025.dds"
+  ],
+  "Weapon540": [
+    "Data/ItemMinIcon/540025.dds"
+  ],
+  "Weapon560": [
+    "Data/Main/560000.dds"
+  ],
+  "Weapon561": [
+    "Data/Main/561000.dds"
+  ],
+  "Weapon562": [
+    "Data/Main/561000.dds"
+  ],
+  "Weapon580": [
+    "Data/Main/580000.dds"
+  ],
+  "Weapon900": [
+    "Data/main/900000.dds"
+  ],
+  "Weaponlevel1": [
+    "Data/Main/LevelCopper.dds"
+  ]
+}
