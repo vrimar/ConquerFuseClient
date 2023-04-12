@@ -1,1347 +1,1078 @@
 [
   {
     "id": 601,
-    "mapPath": "map/map/Nhouse04.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/Nhouse04.dmap"
   },
   {
     "id": 700,
-    "mapPath": "map/map/arena-none.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/arena-none.dmap"
   },
   {
     "id": 1000,
-    "mapPath": "map/map/desert.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/desert.dmap"
   },
   {
     "id": 1001,
-    "mapPath": "map/map/d_antre01.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/d_antre01.dmap"
   },
   {
     "id": 1002,
-    "mapPath": "map/map/newplain.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/newplain.dmap"
   },
   {
     "id": 1003,
-    "mapPath": "map/map/mine01.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/mine01.dmap"
   },
   {
     "id": 1004,
-    "mapPath": "map/map/forum.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/forum.dmap"
   },
   {
     "id": 1005,
-    "mapPath": "map/map/arena.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/arena.dmap"
   },
   {
     "id": 1006,
-    "mapPath": "map/map/horse.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/horse.dmap"
   },
   {
     "id": 1007,
-    "mapPath": "map/map/smith.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/smith.dmap"
   },
   {
     "id": 1008,
-    "mapPath": "map/map/grocery.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/grocery.dmap"
   },
   {
     "id": 1009,
-    "mapPath": "map/map/grocery.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/grocery.dmap"
   },
   {
     "id": 1010,
-    "mapPath": "map/map/newbie.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/newbie.dmap"
   },
   {
     "id": 1011,
-    "mapPath": "map/map/woods.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/woods.dmap"
   },
   {
     "id": 1012,
-    "mapPath": "map/map/sky.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/sky.dmap"
   },
   {
     "id": 1013,
-    "mapPath": "map/map/tiger.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/tiger.dmap"
   },
   {
     "id": 1014,
-    "mapPath": "map/map/dragon.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/dragon.dmap"
   },
   {
     "id": 1015,
-    "mapPath": "map/map/island.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/island.dmap"
   },
   {
     "id": 1016,
-    "mapPath": "map/map/qiling.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/qiling.dmap"
   },
   {
     "id": 1017,
-    "mapPath": "map/map/w-arena.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/w-arena.dmap"
   },
   {
     "id": 1018,
-    "mapPath": "map/map/p-arena.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/p-arena.dmap"
   },
   {
     "id": 1019,
-    "mapPath": "map/map/l-arena.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/l-arena.dmap"
   },
   {
     "id": 1020,
-    "mapPath": "map/map/canyon.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/canyon.dmap"
   },
   {
     "id": 1021,
-    "mapPath": "map/map/mine.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/mine.dmap"
   },
   {
     "id": 1022,
-    "mapPath": "map/map/brave.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/brave.dmap"
   },
   {
     "id": 1025,
-    "mapPath": "map/map/mine-one.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/mine-one.dmap"
   },
   {
     "id": 1026,
-    "mapPath": "map/map/mine-two.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/mine-two.dmap"
   },
   {
     "id": 1027,
-    "mapPath": "map/map/mine-three.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/mine-three.dmap"
   },
   {
     "id": 1028,
-    "mapPath": "map/map/mine-four.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/mine-four.dmap"
   },
   {
     "id": 1029,
-    "mapPath": "map/map/mine-one2.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/mine-one2.dmap"
   },
   {
     "id": 1030,
-    "mapPath": "map/map/mine-two2.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/mine-two2.dmap"
   },
   {
     "id": 1031,
-    "mapPath": "map/map/mine-three2.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/mine-three2.dmap"
   },
   {
     "id": 1032,
-    "mapPath": "map/map/mine-four2.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/mine-four2.dmap"
   },
   {
     "id": 1035,
-    "mapPath": "map/map/newbie.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/newbie.dmap"
   },
   {
     "id": 1036,
-    "mapPath": "map/map/street.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/street.dmap"
   },
   {
     "id": 1037,
-    "mapPath": "map/map/faction-black.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/faction-black.dmap"
   },
   {
     "id": 1038,
-    "mapPath": "map/map/faction.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/faction.dmap"
   },
   {
     "id": 1039,
-    "mapPath": "map/map/playground.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/playground.dmap"
   },
   {
     "id": 1040,
-    "mapPath": "map/map/skycut.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/skycut.dmap"
   },
   {
     "id": 1041,
-    "mapPath": "map/map/skymaze.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/skymaze.dmap"
   },
   {
     "id": 1042,
-    "mapPath": "map/map/lineup-pass.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/lineup-pass.dmap"
   },
   {
     "id": 1043,
-    "mapPath": "map/map/lineup.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/lineup.dmap"
   },
   {
     "id": 1044,
-    "mapPath": "map/map/lineup.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/lineup.dmap"
   },
   {
     "id": 1045,
-    "mapPath": "map/map/lineup.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/lineup.dmap"
   },
   {
     "id": 1046,
-    "mapPath": "map/map/lineup.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/lineup.dmap"
   },
   {
     "id": 1047,
-    "mapPath": "map/map/lineup.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/lineup.dmap"
   },
   {
     "id": 1048,
-    "mapPath": "map/map/lineup.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/lineup.dmap"
   },
   {
     "id": 1049,
-    "mapPath": "map/map/lineup.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/lineup.dmap"
   },
   {
     "id": 1050,
-    "mapPath": "map/map/lineup.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/lineup.dmap"
   },
   {
     "id": 1051,
-    "mapPath": "map/map/riskisland.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/riskisland.dmap"
   },
   {
     "id": 1060,
-    "mapPath": "map/map/skymaze1.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/skymaze1.dmap"
   },
   {
     "id": 1061,
-    "mapPath": "map/map/skymaze2.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/skymaze2.dmap"
   },
   {
     "id": 1062,
-    "mapPath": "map/map/skymaze3.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/skymaze3.dmap"
   },
   {
     "id": 1063,
-    "mapPath": "map/map/riskisland.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/riskisland.dmap"
   },
   {
     "id": 1064,
-    "mapPath": "map/map/star.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/star.dmap"
   },
   {
     "id": 1066,
-    "mapPath": "map/map/woods-z.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/woods-z.dmap"
   },
   {
     "id": 1067,
-    "mapPath": "map/map/qiling-z.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/qiling-z.dmap"
   },
   {
     "id": 1068,
-    "mapPath": "map/map/forum.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/forum.dmap"
   },
   {
     "id": 1069,
-    "mapPath": "map/map/desert-snail.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/desert-snail.dmap"
   },
   {
     "id": 1070,
-    "mapPath": "map/map/boa.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/boa.dmap"
   },
   {
     "id": 1075,
-    "mapPath": "map/map/newcanyon.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/newcanyon.dmap"
   },
   {
     "id": 1076,
-    "mapPath": "map/map/newwoods.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/newwoods.dmap"
   },
   {
     "id": 1077,
-    "mapPath": "map/map/newdesert.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/newdesert.dmap"
   },
   {
     "id": 1078,
-    "mapPath": "map/map/newisland.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/newisland.dmap"
   },
   {
     "id": 1079,
-    "mapPath": "map/map/mys-island.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/mys-island.dmap"
   },
   {
     "id": 1080,
-    "mapPath": "map/map/p-arena.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/p-arena.dmap"
   },
   {
     "id": 1081,
-    "mapPath": "map/map/p-arena.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/p-arena.dmap"
   },
   {
     "id": 1082,
-    "mapPath": "map/map/idland-map.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/idland-map.dmap"
   },
   {
     "id": 1090,
-    "mapPath": "map/map/parena-m.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/parena-m.dmap"
   },
   {
     "id": 1091,
-    "mapPath": "map/map/parena-s.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/parena-s.dmap"
   },
   {
     "id": 1098,
-    "mapPath": "map/map/house01.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/house01.dmap"
   },
   {
     "id": 1099,
-    "mapPath": "map/map/house03.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/house03.dmap"
   },
   {
     "id": 1100,
-    "mapPath": "map/map/star01.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/star01.dmap"
   },
   {
     "id": 1101,
-    "mapPath": "map/map/star02.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/star02.dmap"
   },
   {
     "id": 1102,
-    "mapPath": "map/map/star03.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/star03.dmap"
   },
   {
     "id": 1103,
-    "mapPath": "map/map/star04.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/star04.dmap"
   },
   {
     "id": 1104,
-    "mapPath": "map/map/star05.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/star05.dmap"
   },
   {
     "id": 1105,
-    "mapPath": "map/map/star10.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/star10.dmap"
   },
   {
     "id": 1106,
-    "mapPath": "map/map/star06.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/star06.dmap"
   },
   {
     "id": 1107,
-    "mapPath": "map/map/star07.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/star07.dmap"
   },
   {
     "id": 1108,
-    "mapPath": "map/map/star08.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/star08.dmap"
   },
   {
     "id": 1109,
-    "mapPath": "map/map/star09.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/star09.dmap"
   },
   {
     "id": 1201,
-    "mapPath": "map/map/task01.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/task01.dmap"
   },
   {
     "id": 1202,
-    "mapPath": "map/map/task02.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/task02.dmap"
   },
   {
     "id": 1204,
-    "mapPath": "map/map/task04.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/task04.dmap"
   },
   {
     "id": 1205,
-    "mapPath": "map/map/task05.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/task05.dmap"
   },
   {
     "id": 1207,
-    "mapPath": "map/map/task07.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/task07.dmap"
   },
   {
     "id": 1208,
-    "mapPath": "map/map/task08.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/task08.dmap"
   },
   {
     "id": 1210,
-    "mapPath": "map/map/task10.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/task10.dmap"
   },
   {
     "id": 1211,
-    "mapPath": "map/map/task11.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/task11.dmap"
   },
   {
     "id": 1212,
-    "mapPath": "map/map/island-snail.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/island-snail.dmap"
   },
   {
     "id": 1213,
-    "mapPath": "map/map/desert-snail.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/desert-snail.dmap"
   },
   {
     "id": 1214,
-    "mapPath": "map/map/canyon-fairy.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/canyon-fairy.dmap"
   },
   {
     "id": 1215,
-    "mapPath": "map/map/woods-fairy.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/woods-fairy.dmap"
   },
   {
     "id": 1216,
-    "mapPath": "map/map/newplain-fairy.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/newplain-fairy.dmap"
   },
   {
     "id": 1351,
-    "mapPath": "map/map/s-task01.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/s-task01.dmap"
   },
   {
     "id": 1352,
-    "mapPath": "map/map/s-task02.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/s-task02.dmap"
   },
   {
     "id": 1353,
-    "mapPath": "map/map/s-task03.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/s-task03.dmap"
   },
   {
     "id": 1354,
-    "mapPath": "map/map/s-task04.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/s-task04.dmap"
   },
   {
     "id": 1360,
-    "mapPath": "map/map/maidan-A.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/maidan-A.dmap"
   },
   {
     "id": 1364,
-    "mapPath": "map/map/maidan-E.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/maidan-E.dmap"
   },
   {
     "id": 1500,
-    "mapPath": "map/map/mine-a.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/mine-a.dmap"
   },
   {
     "id": 1501,
-    "mapPath": "map/map/mine-b.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/mine-b.dmap"
   },
   {
     "id": 1502,
-    "mapPath": "map/map/mine-c.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/mine-c.dmap"
   },
   {
     "id": 1503,
-    "mapPath": "map/map/mine-d.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/mine-d.dmap"
   },
   {
     "id": 1505,
-    "mapPath": "map/map/slpk.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/slpk.dmap"
   },
   {
     "id": 1506,
-    "mapPath": "map/map/hhpk.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/hhpk.dmap"
   },
   {
     "id": 1507,
-    "mapPath": "map/map/blpk.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/blpk.dmap"
   },
   {
     "id": 1508,
-    "mapPath": "map/map/ympk.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/ympk.dmap"
   },
   {
     "id": 1509,
-    "mapPath": "map/map/mfpk.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/mfpk.dmap"
   },
   {
     "id": 1510,
-    "mapPath": "map/map/grocery.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/grocery.dmap"
   },
   {
     "id": 1511,
-    "mapPath": "map/map/forum.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/forum.dmap"
   },
   {
     "id": 1512,
-    "mapPath": "map/map/tiger.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/tiger.dmap"
   },
   {
     "id": 1550,
-    "mapPath": "map/map/faction01.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/faction01.dmap"
   },
   {
     "id": 1551,
-    "mapPath": "map/map/faction01.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/faction01.dmap"
   },
   {
     "id": 1560,
-    "mapPath": "map/map/faction.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/faction.dmap"
   },
   {
     "id": 1561,
-    "mapPath": "map/map/faction.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/faction.dmap"
   },
   {
     "id": 1601,
-    "mapPath": "map/map/sanctuary.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/sanctuary.dmap"
   },
   {
     "id": 1615,
-    "mapPath": "map/map/jokul01.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/jokul01.dmap"
   },
   {
     "id": 1616,
-    "mapPath": "map/map/tiemfiles.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/tiemfiles.dmap"
   },
   {
     "id": 1617,
-    "mapPath": "map/map/tiemfiles.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/tiemfiles.dmap"
   },
   {
     "id": 1645,
-    "mapPath": "map/map/cordiform.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/cordiform.dmap"
   },
   {
     "id": 1700,
-    "mapPath": "map/map/Gulf.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/Gulf.dmap"
   },
   {
     "id": 1707,
-    "mapPath": "map/map/forum.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/forum.dmap"
   },
   {
     "id": 1712,
-    "mapPath": "map/map/kunlun1.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/kunlun1.dmap"
   },
   {
     "id": 1713,
-    "mapPath": "map/map/kunlun2.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/kunlun2.dmap"
   },
   {
     "id": 1714,
-    "mapPath": "map/map/kunlun3.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/kunlun3.dmap"
   },
   {
     "id": 1715,
-    "mapPath": "map/map/kunlun4.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/kunlun4.dmap"
   },
   {
     "id": 1716,
-    "mapPath": "map/map/kunlun5.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/kunlun5.dmap"
   },
   {
     "id": 1717,
-    "mapPath": "map/map/kunlun6.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/kunlun6.dmap"
   },
   {
     "id": 1718,
-    "mapPath": "map/map/kunlun7.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/kunlun7.dmap"
   },
   {
     "id": 1719,
-    "mapPath": "map/map/kunlun8.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/kunlun8.dmap"
   },
   {
     "id": 1720,
-    "mapPath": "map/map/kunlun9.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/kunlun9.dmap"
   },
   {
     "id": 1730,
-    "mapPath": "map/map/fairylandPK-02.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/fairylandPK-02.dmap"
   },
   {
     "id": 1731,
-    "mapPath": "map/map/fairylandPK-03.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/fairylandPK-03.dmap"
   },
   {
     "id": 1732,
-    "mapPath": "map/map/fairylandPK-04.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/fairylandPK-04.dmap"
   },
   {
     "id": 1733,
-    "mapPath": "map/map/fairylandPK-05.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/fairylandPK-05.dmap"
   },
   {
     "id": 1734,
-    "mapPath": "map/map/fairylandPK-06.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/fairylandPK-06.dmap"
   },
   {
     "id": 1735,
-    "mapPath": "map/map/fairylandPK-07.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/fairylandPK-07.dmap"
   },
   {
     "id": 1736,
-    "mapPath": "map/map/fairylandPK-08.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/fairylandPK-08.dmap"
   },
   {
     "id": 1737,
-    "mapPath": "map/map/fairylandPK-10.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/fairylandPK-10.dmap"
   },
   {
     "id": 1760,
-    "mapPath": "map/map/fairylandPK-07.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/fairylandPK-07.dmap"
   },
   {
     "id": 1761,
-    "mapPath": "map/map/star05.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/star05.dmap"
   },
   {
     "id": 1762,
-    "mapPath": "map/map/icecrypt-lev1.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/icecrypt-lev1.dmap"
   },
   {
     "id": 1763,
-    "mapPath": "map/map/parena-m.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/parena-m.dmap"
   },
   {
     "id": 1764,
-    "mapPath": "map/map/fairylandPK-03.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/fairylandPK-03.dmap"
   },
   {
     "id": 1765,
-    "mapPath": "map/map/Nhouse04.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/Nhouse04.dmap"
   },
   {
     "id": 1766,
-    "mapPath": "map/map/Halloween2007a.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/Halloween2007a.dmap"
   },
   {
     "id": 1767,
-    "mapPath": "map/map/Halloween2007boss.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/Halloween2007boss.dmap"
   },
   {
     "id": 1768,
-    "mapPath": "map/map/sky.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/sky.dmap"
   },
   {
     "id": 1769,
-    "mapPath": "map/map/idland-map.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/idland-map.dmap"
   },
   {
     "id": 1770,
-    "mapPath": "map/map/fairylandPK-02.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/fairylandPK-02.dmap"
   },
   {
     "id": 1771,
-    "mapPath": "map/map/fairylandPK-03.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/fairylandPK-03.dmap"
   },
   {
     "id": 1772,
-    "mapPath": "map/map/fairylandPK-04.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/fairylandPK-04.dmap"
   },
   {
     "id": 1773,
-    "mapPath": "map/map/fairylandPK-05.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/fairylandPK-05.dmap"
   },
   {
     "id": 1774,
-    "mapPath": "map/map/fairylandPK-06.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/fairylandPK-06.dmap"
   },
   {
     "id": 1775,
-    "mapPath": "map/map/fairylandPK-07.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/fairylandPK-07.dmap"
   },
   {
     "id": 1777,
-    "mapPath": "map/map/fairylandPK-08.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/fairylandPK-08.dmap"
   },
   {
     "id": 1779,
-    "mapPath": "map/map/slpk.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/slpk.dmap"
   },
   {
     "id": 1780,
-    "mapPath": "map/map/slpk.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/slpk.dmap"
   },
   {
     "id": 1785,
-    "mapPath": "map/map/Halloween2007a.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/Halloween2007a.dmap"
   },
   {
     "id": 1786,
-    "mapPath": "map/map/Halloween2007b.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/Halloween2007b.dmap"
   },
   {
     "id": 1787,
-    "mapPath": "map/map/Halloween2007boss.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/Halloween2007boss.dmap"
   },
   {
     "id": 1801,
-    "mapPath": "map/map/mission.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/mission.dmap"
   },
   {
     "id": 1806,
-    "mapPath": "map/map/flower.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/flower.dmap"
   },
   {
     "id": 1812,
-    "mapPath": "map/map/fairylandPK-10.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/fairylandPK-10.dmap"
   },
   {
     "id": 1813,
-    "mapPath": "map/map/fairylandPK-04.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/fairylandPK-04.dmap"
   },
   {
     "id": 1814,
-    "mapPath": "map/map/fairylandPK-06.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/fairylandPK-06.dmap"
   },
   {
     "id": 1819,
-    "mapPath": "map/map/Hallowmas.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/Hallowmas.dmap"
   },
   {
     "id": 1826,
-    "mapPath": "map/map/christmas01.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/christmas01.dmap"
   },
   {
     "id": 1830,
-    "mapPath": "map/map/newyeartask01.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/newyeartask01.dmap"
   },
   {
     "id": 1832,
-    "mapPath": "map/map/christmas02.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/christmas02.dmap"
   },
   {
     "id": 1836,
-    "mapPath": "map/map/newyeartask03.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/newyeartask03.dmap"
   },
   {
     "id": 1844,
-    "mapPath": "map/map/sf-parade.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/sf-parade.dmap"
   },
   {
     "id": 1845,
-    "mapPath": "map/map/SpringTown.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/SpringTown.dmap"
   },
   {
     "id": 1857,
-    "mapPath": "map/map/valentine.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/valentine.dmap"
   },
   {
     "id": 1858,
-    "mapPath": "map/map/poker.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/poker.dmap"
   },
   {
     "id": 1860,
-    "mapPath": "map/map/poker02.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/poker02.dmap"
   },
   {
     "id": 1924,
-    "mapPath": "map/map/arena-none.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/arena-none.dmap"
   },
   {
     "id": 1929,
-    "mapPath": "map/map/arenamap.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/arenamap.dmap"
   },
   {
     "id": 1930,
-    "mapPath": "map/map/2009-7x.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/2009-7x.dmap"
   },
   {
     "id": 1950,
-    "mapPath": "map/map/horserate.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/horserate.dmap"
   },
   {
     "id": 1952,
-    "mapPath": "map/map/halloween01.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/halloween01.dmap"
   },
   {
     "id": 1953,
-    "mapPath": "map/map/halloween03.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/halloween03.dmap"
   },
   {
     "id": 1955,
-    "mapPath": "map/map/halloween02.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/halloween02.dmap"
   },
   {
     "id": 1961,
-    "mapPath": "map/map/maze01.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze01.dmap"
   },
   {
     "id": 1962,
-    "mapPath": "map/map/maze02.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze02.dmap"
   },
   {
     "id": 1963,
-    "mapPath": "map/map/maze03.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze03.dmap"
   },
   {
     "id": 1964,
-    "mapPath": "map/map/maze04.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze04.dmap"
   },
   {
     "id": 1965,
-    "mapPath": "map/map/maze05.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze05.dmap"
   },
   {
     "id": 1966,
-    "mapPath": "map/map/maze06.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze06.dmap"
   },
   {
     "id": 1967,
-    "mapPath": "map/map/maze07.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze07.dmap"
   },
   {
     "id": 1968,
-    "mapPath": "map/map/maze08.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze08.dmap"
   },
   {
     "id": 1969,
-    "mapPath": "map/map/maze09.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze09.dmap"
   },
   {
     "id": 1971,
-    "mapPath": "map/map/maze01.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze01.dmap"
   },
   {
     "id": 1972,
-    "mapPath": "map/map/maze02.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze02.dmap"
   },
   {
     "id": 1973,
-    "mapPath": "map/map/maze03.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze03.dmap"
   },
   {
     "id": 1974,
-    "mapPath": "map/map/maze04.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze04.dmap"
   },
   {
     "id": 1975,
-    "mapPath": "map/map/maze05.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze05.dmap"
   },
   {
     "id": 1976,
-    "mapPath": "map/map/maze06.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze06.dmap"
   },
   {
     "id": 1977,
-    "mapPath": "map/map/maze07.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze07.dmap"
   },
   {
     "id": 1978,
-    "mapPath": "map/map/maze08.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze08.dmap"
   },
   {
     "id": 1979,
-    "mapPath": "map/map/maze09.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze09.dmap"
   },
   {
     "id": 1981,
-    "mapPath": "map/map/maze01.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze01.dmap"
   },
   {
     "id": 1982,
-    "mapPath": "map/map/maze02.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze02.dmap"
   },
   {
     "id": 1983,
-    "mapPath": "map/map/maze03.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze03.dmap"
   },
   {
     "id": 1984,
-    "mapPath": "map/map/maze04.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze04.dmap"
   },
   {
     "id": 1985,
-    "mapPath": "map/map/maze05.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze05.dmap"
   },
   {
     "id": 1986,
-    "mapPath": "map/map/maze06.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze06.dmap"
   },
   {
     "id": 1987,
-    "mapPath": "map/map/maze07.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze07.dmap"
   },
   {
     "id": 1988,
-    "mapPath": "map/map/maze08.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze08.dmap"
   },
   {
     "id": 1989,
-    "mapPath": "map/map/maze09.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/maze09.dmap"
   },
   {
     "id": 1992,
-    "mapPath": "map/map/09christmas03.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/09christmas03.dmap"
   },
   {
     "id": 1993,
-    "mapPath": "map/map/09Christmas04.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/09Christmas04.dmap"
   },
   {
     "id": 1996,
-    "mapPath": "map/map/09christmas01.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/09christmas01.dmap"
   },
   {
     "id": 1999,
-    "mapPath": "map/map/icecrypt-lev3.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/icecrypt-lev3.dmap"
   },
   {
     "id": 2021,
-    "mapPath": "map/map/Dgate.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/Dgate.dmap"
   },
   {
     "id": 2022,
-    "mapPath": "map/map/Dsquare.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/Dsquare.dmap"
   },
   {
     "id": 2023,
-    "mapPath": "map/map/Dcloister.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/Dcloister.dmap"
   },
   {
     "id": 2024,
-    "mapPath": "map/map/Dsigil.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/Dsigil.dmap"
   },
   {
     "id": 2054,
-    "mapPath": "map/map/icecrypt-lev4.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/icecrypt-lev4.dmap"
   },
   {
     "id": 2055,
-    "mapPath": "map/map/icecrypt-lev5.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/icecrypt-lev5.dmap"
   },
   {
     "id": 2056,
-    "mapPath": "map/map/icecrypt-lev6.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/icecrypt-lev6.dmap"
   },
   {
     "id": 2057,
-    "mapPath": "map/map/bp-flag.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/bp-flag.dmap"
   },
   {
     "id": 2060,
-    "mapPath": "map/map/bp-contest02.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/bp-contest02.dmap"
   },
   {
     "id": 2061,
-    "mapPath": "map/map/horserate-d.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/horserate-d.dmap"
   },
   {
     "id": 2062,
-    "mapPath": "map/map/horserate-ic1.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/horserate-ic1.dmap"
   },
   {
     "id": 2063,
-    "mapPath": "map/map/horserate-ic2.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/horserate-ic2.dmap"
   },
   {
     "id": 2064,
-    "mapPath": "map/map/horserate-ic3.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/horserate-ic3.dmap"
   },
   {
     "id": 2065,
-    "mapPath": "map/map/horserate-is.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/horserate-is.dmap"
   },
   {
     "id": 2066,
-    "mapPath": "map/map/horserate-np.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/horserate-np.dmap"
   },
   {
     "id": 2067,
-    "mapPath": "map/map/horserate-w.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/horserate-w.dmap"
   },
   {
     "id": 2068,
-    "mapPath": "map/map/pk.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/pk.dmap"
   },
   {
     "id": 2071,
-    "mapPath": "map/map/bp-kingfight.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/bp-kingfight.dmap"
   },
   {
     "id": 2080,
-    "mapPath": "map/map/Nhouse03.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/Nhouse03.dmap"
   },
   {
     "id": 2090,
-    "mapPath": "map/map/tiger01.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/tiger01.dmap"
   },
   {
     "id": 3024,
-    "mapPath": "map/map/family.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/family.dmap"
   },
   {
     "id": 3029,
-    "mapPath": "map/map/2011mid-autumn.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/2011mid-autumn.dmap"
   },
   {
     "id": 3030,
-    "mapPath": "map/map/climate.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/climate.dmap"
   },
   {
     "id": 3045,
-    "mapPath": "map/map/11christmas.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/11christmas.dmap"
   },
   {
     "id": 3055,
-    "mapPath": "map/map/beach.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/beach.dmap"
   },
   {
     "id": 3056,
-    "mapPath": "map/map/seabed01.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/seabed01.dmap"
   },
   {
     "id": 5000,
-    "mapPath": "map/map/mine-one.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/mine-one.dmap"
   },
   {
     "id": 6000,
-    "mapPath": "map/map/prison.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/prison.dmap"
   },
   {
     "id": 6001,
-    "mapPath": "map/map/prison.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/prison.dmap"
   },
   {
     "id": 6003,
-    "mapPath": "map/map/prison.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/prison.dmap"
   },
   {
     "id": 8822,
-    "mapPath": "map/map/babel.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/babel.dmap"
   },
   {
     "id": 8823,
-    "mapPath": "map/map/babel.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/babel.dmap"
   },
   {
     "id": 8824,
-    "mapPath": "map/map/babel.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/babel.dmap"
   },
   {
     "id": 8825,
-    "mapPath": "map/map/babel.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/babel.dmap"
   },
   {
     "id": 8826,
-    "mapPath": "map/map/babel.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/babel.dmap"
   },
   {
     "id": 8827,
-    "mapPath": "map/map/babel.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/babel.dmap"
   },
   {
     "id": 8828,
-    "mapPath": "map/map/babel.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/babel.dmap"
   },
   {
     "id": 8829,
-    "mapPath": "map/map/babel.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/babel.dmap"
   },
   {
     "id": 8830,
-    "mapPath": "map/map/babel.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/babel.dmap"
   },
   {
     "id": 8831,
-    "mapPath": "map/map/babel.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/babel.dmap"
   },
   {
     "id": 8832,
-    "mapPath": "map/map/babel.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/babel.dmap"
   },
   {
     "id": 8833,
-    "mapPath": "map/map/babel.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/babel.dmap"
   },
   {
     "id": 8834,
-    "mapPath": "map/map/babel.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/babel.dmap"
   },
   {
     "id": 8835,
-    "mapPath": "map/map/babel.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/babel.dmap"
   },
   {
     "id": 8836,
-    "mapPath": "map/map/babel.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/babel.dmap"
   },
   {
     "id": 8837,
-    "mapPath": "map/map/babel.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/babel.dmap"
   },
   {
     "id": 8838,
-    "mapPath": "map/map/babel.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/babel.dmap"
   },
   {
     "id": 8839,
-    "mapPath": "map/map/babel.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/babel.dmap"
   },
   {
     "id": 50000,
-    "mapPath": "map/map/Bossnest_pk1.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/Bossnest_pk1.dmap"
   },
   {
     "id": 50001,
-    "mapPath": "map/map/miragelv001-002.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/miragelv001-002.dmap"
   },
   {
     "id": 50002,
-    "mapPath": "map/map/occupy06.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/occupy06.dmap"
   },
   {
     "id": 50003,
-    "mapPath": "map/map/occupy03.dmap",
-    "puzzleSize": 128
+    "mapPath": "map/map/occupy03.dmap"
   },
   {
     "id": 900000,
-    "mapPath": "map/map/newarena.dmap",
-    "puzzleSize": 256
+    "mapPath": "map/map/newarena.dmap"
   }
 ]
