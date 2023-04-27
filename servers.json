@@ -6,19 +6,19 @@
     "port": 9998
   },
   {
-    "id": 1,
+    "id": 2,
     "ip": "104.194.10.146",
     "name": "ConquerFuse(Soul)",
     "port": 9999
   },
   {
-    "id": 2,
+    "id": 3,
     "ip": "127.0.0.1",
     "name": "ConquerFuse (Relic)",
     "port": 9958
   },
   {
-    "id": 3,
+    "id": 4,
     "ip": "10.172.150.70",
     "name": "ConquerFuse (Craft)",
     "port": 9958
