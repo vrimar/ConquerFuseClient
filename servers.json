@@ -3,11 +3,17 @@
     "id": 1,
     "ip": "104.194.10.146",
     "name": "ConquerFuse",
+    "port": 9998
+  },
+  {
+    "id": 1,
+    "ip": "104.194.10.146",
+    "name": "ConquerFuse(Soul)",
     "port": 9999
   },
   {
     "id": 2,
-    "ip": "192.168.0.13",
+    "ip": "127.0.0.1",
     "name": "ConquerFuse (Relic)",
     "port": 9958
   },
